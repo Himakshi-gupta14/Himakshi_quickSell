@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Himakshi_quickSell/static/css/main.afa5c985.css",
+    "main.js": "/Himakshi_quickSell/static/js/main.c7567165.js",
+    "index.html": "/Himakshi_quickSell/index.html",
+    "main.afa5c985.css.map": "/Himakshi_quickSell/static/css/main.afa5c985.css.map",
+    "main.c7567165.js.map": "/Himakshi_quickSell/static/js/main.c7567165.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afa5c985.css",
+    "static/js/main.c7567165.js"
+  ]
+}
